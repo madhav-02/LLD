@@ -8,6 +8,7 @@ Each problem lives in its own folder (an IntelliJ module) with its own `src/` an
 | # | Problem | Folder | Key patterns |
 |---|---------|--------|--------------|
 | 1 | Parking Lot | [parking-lot](parking-lot) | Strategy (pricing, payment, spot allocation), Factory (vehicles) |
+| 2 | Tic Tac Toe | [tic-tac-toe](tic-tac-toe) | _TBD_ |
 
 ## Repo layout
 
